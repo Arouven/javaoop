@@ -15,9 +15,9 @@ Perform the following operations:-
   (vi) display appropriate messages to the user
 
 Qu.3 Write down a simple “atm” banking program which allows a user to perform the following transactions:-
-(iii) credit his account,
-(iv)withdraw money from his account
-(v) check the current balance.
+  (iii) credit his account,
+  (iv)withdraw money from his account
+  (v) check the current balance.
 The program contains functions 'credit' to add money to the account, 'withdraw' to remove money from the account and 'check_balance' to to view the current balance.
 
 Qu.4 Write down the class Student to contain the following:-
@@ -32,16 +32,16 @@ Qu.5 Write down the class TuitionFees to contain the following:-
 - method 'pay_tuition_fees' which takes an argument for the amount of fees to be paid and updates both the variables amount_paid and amount_due
 
 Qu.6 Write down the class Book which contains the following:-
-(i) attributes: book_isbn, book_name, book_author, book_price, number_of_copies
-(ii) set methods for each variable
-(iii) get methods for each attribute
-(iv) method 'reserve_book' which takes the book_name and today's date as argument to create a reservation for a particular book
-(v) method 'borrow_book' which allows a book to be borrowed by a student if it is available
+  (i) attributes: book_isbn, book_name, book_author, book_price, number_of_copies
+  (ii) set methods for each variable
+  (iii) get methods for each attribute
+  (iv) method 'reserve_book' which takes the book_name and today's date as argument to create a reservation for a particular book
+  (v) method 'borrow_book' which allows a book to be borrowed by a student if it is available
 
 Qu.7 Now write down an application to perform the following transactions:-
-(vi)create students: zico, jojo, bobo
-(vii) zico pays an amount of Rs 12,000, jojo pays an amount of Rs 24,000 and bobo pays an amount of 25,000 respectively for tuition fees. The total amount of fees to be paid is Rs 25,000 per semester. Display appropriate messages to show the amount paid and amount still pending
-(viii) Create books: 'Harry Potter' and 'L' Etoile de Ton Marko' with the following details
+  (vi)create students: zico, jojo, bobo
+  (vii) zico pays an amount of Rs 12,000, jojo pays an amount of Rs 24,000 and bobo pays an amount of 25,000 respectively for tuition fees. The total amount of fees to be paid is Rs 25,000 per semester. Display appropriate messages to show the amount paid and amount still pending
+  (viii) Create books: 'Harry Potter' and 'L' Etoile de Ton Marko' with the following details
 (a) book_isbn: 101101
 book_name: Harry Potter
 book_author: Percy Tomasson
@@ -52,7 +52,7 @@ book_name: L'Etoile de Ton Marko
 book_author: Ras Babyjaby
 book_price: Rs 1,500/
 number_of_copies: 8
-(vii) zico makes a reservation for book Harry Potter
-(viii) jojo borrows the book L'Etoile de Ton Marko
-(ix)bobo borrows the book Harry Potter
+  (vii) zico makes a reservation for book Harry Potter
+  (viii) jojo borrows the book L'Etoile de Ton Marko
+  (ix)bobo borrows the book Harry Potter
 Display appropriate messages for each of the transactions.
