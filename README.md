@@ -21,7 +21,7 @@ Qu.3 Write down a simple “atm” banking program which allows a user to perfor
 The program contains functions 'credit' to add money to the account, 'withdraw' to remove money from the account and 'check_balance' to to view the current balance.
 
 Qu.4 Write down the class Student to contain the following:-
-(i) data members: student_id, student_name, student_address, contact_number
+(i) data members: student_id, student_name, student_address, contact_number.
 (ii) set methods for each data member
 (iii) get methods for each variable
 
