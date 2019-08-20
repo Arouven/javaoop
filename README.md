@@ -2,17 +2,17 @@
 oop java
 
 Qu.1 “La Bonne Marmite Resto” in the capital city offers a variety of meals to customers for breakfast, lunch and dinner. Menu items may be sold independently though. A customer places his/her order and pays at the check-out counter before being served all the food items bought. Perform the following operations:-
-(i) place an order for a lunch combo meal which contains: a chicken burger, french fries, a chicken salad pasta, a soft drink and a chicken spicy piece.
-(ii) calculate & display the total cost to be paid by the customer.
+  (i) place an order for a lunch combo meal which contains: a chicken burger, french fries, a chicken salad pasta, a soft drink and a chicken spicy piece.
+  (ii) calculate & display the total cost to be paid by the customer.
 
 Qu.2 “MauriJobs” is a new company located at Ebene Business Park. It allows job applicants to view jobs, search for a specific job, apply for the job online, and monitor the status of the application which may be accepted for an interview or rejected. The applicant must be registered with the company before making any application and once a member is called for an interview he is charged a nominal fee of Rs 150. If an applicant is not selected for any interview for a period of 3 months, his account is blocked and he is requested to upgrade his qualifications.
 Perform the following operations:-
-(i) create an applicant
-(ii) create a job
-(iii) create an application for a job
-(iv) accept the application
-(v) request the applicant to pay his charge to “Online Jobs”
-(vi) display appropriate messages to the user
+  (i) create an applicant
+  (ii) create a job
+  (iii) create an application for a job
+  (iv) accept the application
+  (v) request the applicant to pay his charge to “Online Jobs”
+  (vi) display appropriate messages to the user
 
 Qu.3 Write down a simple “atm” banking program which allows a user to perform the following transactions:-
 (iii) credit his account,
