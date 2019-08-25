@@ -25,11 +25,37 @@ the methods listed above.
  */
 public class Q7 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
     }
     
+}
+
+class Product {
+    private String productName, code;
+    private int quantityInStock, cost;
+
+    public Product(String productName, String code) {
+        this.productName = productName;
+        this.code = code;
+        this.quantityInStock = 0; 
+        this.cost = 0;
+    }
+
+    public String getProductName() {
+        return productName;
+    }
+    
+    public void addStock(int n){
+        this.quantityInStock += n;
+    }
+    
+    protected boolean outOfStock(){
+        if(quantityInStock <= 0){
+            return true;                
+        }
+        else{
+            return false;
+        }
+    }
 }
