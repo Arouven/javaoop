@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Practical2;
 
 /**
@@ -29,4 +24,28 @@ public class Q5 {
 class Account{
     private String accountNumber, ownerName;
     private double balance;
+
+    public Account(String accountNumber, String ownerName) {
+        this.accountNumber = accountNumber;
+        this.ownerName = ownerName;
+    }
+    
+    public void credit(double in){
+        this.balance = balance + in;
+    }
+    
+    public void dedit(double out){
+        if(this.balance < 0){
+            this.balance = balance - 10;
+        }
+        else{
+            this.balance = balance - out;
+        }
+        
+    }
+
+    public double getBalance() {
+        return balance;
+    }
+    
 }
