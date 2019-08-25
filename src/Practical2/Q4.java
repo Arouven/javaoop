@@ -33,11 +33,51 @@ Briefly explain the inputs and possible outputs of the program.
 public class Q4 {
 
     public static void main(String[] args) {
-        // TODO code application logic here
+        PrintCard p1 = new PrintCard();
+        p1.setCardNo("d");
     }
     
     
 }
 class PrintCard{
+    //vars
+    private String cardNo; 
+    private String studentName; 
+    private int sheets;
+
+    //setter
+    public void setCardNo(String cardNo) {
+        this.cardNo = cardNo;
+    }
+
+    public void setStudentName(String studentName) {
+        this.studentName = studentName;
+    }
+
+    public void setSheets(int sheets) {
+        this.sheets = sheets;
+    }
+
+    //getter
+    public String getCardNo() {
+        return cardNo;
+    }
+
+    public String getStudentName() {
+        return studentName;
+    }
+
+    public int getSheets() {
+        return sheets;
+    }
     
+    //constructor
+    public PrintCard(){
+        this.sheets = 500;
+    }
+    
+    //method
+    public void printOneSheet(){
+        this.sheets = sheets - 1;
+    }
 }
