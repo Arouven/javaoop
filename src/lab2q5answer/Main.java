@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lab2q5;
+package lab2q5answer;
 
 import javax.swing.JOptionPane;
 
