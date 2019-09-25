@@ -1,4 +1,4 @@
-package Practical2;
+package lab2;
 
 /**
 Qu.9 Write the definition of a class called ‘Rectangle’. It contains the 

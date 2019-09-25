@@ -1,4 +1,4 @@
-package Practical2;
+package lab2;
 
 /**
 Qu.7 Write the definition of a class called ‘Product’. A ‘Product’ object should represent a

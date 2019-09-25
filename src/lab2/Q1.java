@@ -1,4 +1,4 @@
-package Practical2;
+package lab2;
 
 /**
 Qu.1 (a) Write a class TV which satisfy the following requirements:-

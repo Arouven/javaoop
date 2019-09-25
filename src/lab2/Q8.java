@@ -1,4 +1,4 @@
-package Practical2;
+package lab2;
 
 /**
 Qu.8 (a) Write the definition of a class ‘Box’ in Java such that it contains the

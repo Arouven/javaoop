@@ -1,4 +1,4 @@
-package Practical2;
+package lab2;
 
 /**
 Qu.6 (a) Write the definition of a class called ‘Point’ in Java. The class 

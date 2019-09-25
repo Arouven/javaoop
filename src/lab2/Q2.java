@@ -1,4 +1,4 @@
-package Practical2;
+package lab2;
 
 /**
 Qu.2 (a) Design and implement a class Time1 in Java which contains the following:-

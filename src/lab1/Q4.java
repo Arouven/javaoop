@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Practical1;
+package lab1;
 
 /**
 Qu.4 Write down the class Student to contain the following:-

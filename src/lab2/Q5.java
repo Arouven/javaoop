@@ -1,4 +1,4 @@
-package Practical2;
+package lab2;
 
 /**
 Qu.5 Write the definition of a class called Account. An Account object should 

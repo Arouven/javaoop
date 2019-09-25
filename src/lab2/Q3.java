@@ -1,4 +1,4 @@
-package Practical2;
+package lab2;
 
 /**
 Qu.3 (a) Design and implement a class Time2 which contains the following:-

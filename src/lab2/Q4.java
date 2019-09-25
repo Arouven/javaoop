@@ -1,4 +1,4 @@
-package Practical2;
+package lab2;
 
 /**
 Qu.4 The IT Centre of the University is concerned about the cost of paper being 

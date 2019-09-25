@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Practical1;
+package lab1;
 
 /**
 Qu.1 “La Bonne Marmite Resto” in the capital city offers a variety of meals to customers for
