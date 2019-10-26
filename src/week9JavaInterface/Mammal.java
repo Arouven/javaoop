@@ -11,8 +11,4 @@ package week9JavaInterface;
  */
 public interface Mammal{
     public void setHairColor(String hairColor);
-    
-    
-    
-    
 }
